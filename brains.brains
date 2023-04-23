@@ -1,0 +1,12 @@
+brains Brains {
+
+	Brains(Brains brains, Brains brainsBrains) {
+		brains.brains = brains;
+		brains.brainsBrains = brainsBrains;
+	}
+
+	Brains brains(Brains brains) {
+		brains brains;
+	}
+
+}
