@@ -1,4 +1,6 @@
 brains Brains {
+	Brains brains;
+	Brains brainsBrains;
 
 	Brains(Brains brains, Brains brainsBrains) {
 		brains.brains = brains;
